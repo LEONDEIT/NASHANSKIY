@@ -1,2 +1,2 @@
 alert('HELL')
-consol.log('Test 2')
+consol.log('Test 2хавхахахаха-ха')
